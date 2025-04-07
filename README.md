@@ -1,4 +1,4 @@
-### Olá! Eu sou o Yan! 🤠
+### Opa! Eu sou o Yan! 🤠
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-uch%C3%B4a-01189b26b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fckz.yan/)
